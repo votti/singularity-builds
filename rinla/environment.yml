@@ -33,4 +33,9 @@ dependencies:
   - r-rgdal
   - r-usethis
   - r-mcmcpack
-
+  - r-rgeos
+  - r-splancs
+  - r-mnormt
+  - r-matrixstats
+  - r-sn
+  - make

@@ -1,0 +1,36 @@
+name: rinla
+channels:
+  - bioconda
+  - pyviz
+  - conda-forge
+  - r
+  - defaults
+dependencies:
+  - libgfortran
+  - liblapack
+  - libopenblas
+  - r-stringi
+  - r-tidyverse
+  - r-sf
+  - r-spdep
+  - r-utf8
+  - r-loom
+  - r-data.table
+  - r-rgl
+  - r-bh
+  - r-matrix
+  - r-devtools
+  - r-gridextra
+  - r-mvtnorm
+  - r-gh
+  - r-spam
+  - r-foreach
+  - r-fields
+  - r-roxygen2
+  - r-testthat
+  - r-shiny
+  - r-git2r
+  - r-rgdal
+  - r-usethis
+  - r-mcmcpack
+
